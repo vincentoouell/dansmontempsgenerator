@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/vincentoouell/dansmontempsgenerator/issues"
   },
-  "homepage": "https://github.com/vincentoouell/dansmontempsgenerator#readme"
+  "homepage": "https://github.com/vincentoouell/dansmontempsgenerator#readme",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
 }
